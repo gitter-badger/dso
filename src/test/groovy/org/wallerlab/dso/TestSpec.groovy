@@ -1,7 +1,7 @@
 package org.wallerlab.dso;
 
 import spock.lang.Specification
-import org.wallerlab.jacob.dso.Main
+import org.wallerlab.dso.Main
 
 class TestSpec extends Specification {
 
