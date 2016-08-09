@@ -3,7 +3,6 @@ package org.wallerlab.dso;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Import;
-import org.wallerlab.config.BatchConfig;
 
 import java.io.IOException;
 
