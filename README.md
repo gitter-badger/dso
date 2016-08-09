@@ -1,2 +1,2 @@
-# dso
-Dimer Swarm Optimizer
+# Dimer Swarm Optimizer
+
